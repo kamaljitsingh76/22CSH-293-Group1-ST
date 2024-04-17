@@ -1,5 +1,16 @@
 **Aaryan - 22BDO10001 Surprise Test - 1**
 
+
+![Aaryan_22BDO10001-ST,pg-1](https://github.com/Aaryan-2104/Aaryan_22BDO10001/assets/89840919/51106c9d-79f6-4868-a03d-017e50ae9e63)
+
+
+
+![Aaryan_22BDO10001-ST,pg-2](https://github.com/Aaryan-2104/Aaryan_22BDO10001/assets/89840919/9c684b61-8723-465e-b7c3-c379aec788b1)
+
+
+
+
+
 SET - ODD
 
 Topic - You again live in your own branch, this time we will be doing a bit of juggling with branches, to show how lightweight branches are in git.
@@ -54,3 +65,22 @@ Ans-11: Now the merge commit with the message you have given with merging branch
 
 
 Ouputs->>
+
+
+
+<img width="1440" alt="Output-1" src="https://github.com/Aaryan-2104/Aaryan_22BDO10001/assets/89840919/117ad925-227f-42b9-b87d-aa543eff6555">
+
+
+
+<img width="1440" alt="Output-2" src="https://github.com/Aaryan-2104/Aaryan_22BDO10001/assets/89840919/047f2e8b-39a1-4665-b66d-203c1fdfdd56">
+
+
+
+<img width="1440" alt="Output-3" src="https://github.com/Aaryan-2104/Aaryan_22BDO10001/assets/89840919/424f0492-84f4-46bf-aca8-c3d402d45e26">
+
+
+
+
+
+
+
