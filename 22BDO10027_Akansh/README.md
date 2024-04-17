@@ -25,6 +25,7 @@ $git add README.md
 $ git commit "Adding the README file"
 
 Step-8 What is the output of git log --oneline --graph --all?
+
 " * hashcode (master) Adding the README file "
 
 " * | hashcode (greeting) Added favourite greeting "
@@ -36,6 +37,7 @@ Step-10 Merge the greeting branch into master
 $ git merge greeting
 
 Step-11 What is the output of git log --oneline --graph --all now? Observe the extra merge commit created with the message "Merge branch 'greeting'".
+
 " * hashcode (master) Merge branch greeting "
 
 " | \ "
