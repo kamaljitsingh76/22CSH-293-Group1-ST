@@ -6,7 +6,7 @@
 
 2.	Add a new global alias
 git config --global alias.lol 'log --oneline --graph --all'
-This allows you to call git lol as an alternative to git log --oneline --graph --all
+This allows you to call git lol as an alternative to git log --oneline --graph --all<br>
 ![Screenshot 2024-04-17 102134](https://github.com/Sushantjha1236/22CSH-293-Group1-ST/assets/113833084/bea39306-61ad-4635-8bba-89a2747ed020)
 
 3.	Run your alias git lol
