@@ -73,3 +73,10 @@
 10. What is the output of git log --oneline --graph --all now? Observe the extra merge commit created with the message "Merge branch 'greeting'".
 
     * The extra merge commit is created during the merge process because the merge operation combines the data of the greeting branch into master branch and created a new commit
+   
+
+**Suprise Test Sheet**
+
+![one](https://github.com/Tempestyash123456/22CSH-293-Group1-ST/blob/main/ss-1.png)
+
+![two](https://github.com/Tempestyash123456/22CSH-293-Group1-ST/blob/main/ss-2.png)
